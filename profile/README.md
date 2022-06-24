@@ -1,6 +1,6 @@
 
 ## OpenAnime 🐱‍🏍
-![OpenAnime banner](https://i.hizliresim.com/a6ss0mg.png)
+![OpenAnime banner](https://i.hizliresim.com/p07x9su.png)
 OpenAnime is an open source anime platform that aims on community, security and speed. It provides some of the unique features that will rarely see on an anime platform
 
 **OpenAnime provides;**
