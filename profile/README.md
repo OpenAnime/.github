@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/Bka6xky.png)
+![Banner](https://i.hizliresim.com/p07x9su.png)
 #
 **OpenAnime** is an **open source** anime platform that aims on **community**, **security** and **speed**. It provides some of the **unique features** that you will rarely see on an **anime platform**.
 
