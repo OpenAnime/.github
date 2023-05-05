@@ -1,12 +1,8 @@
-![Banner](https://i.hizliresim.com/p07x9su.png)
-#
-**OpenAnime** is an **open source** anime platform that aims on **community**, **security** and **speed**. It provides some of the **unique features** that you will rarely see on an **anime platform**.
+![Banner](https://user-images.githubusercontent.com/52077360/236557434-fff0b0f9-c1f5-46af-8de2-cfc88d9733bb.png)
 
-**OpenAnime provides;**
-- Watch together system to create rooms and chat with your friends that you have invited to your room in realtime while watching your anime,
-- Community section to publish your favorite anime clips, 
-- Ability to download anime videos right in your browser,
-- Ability to listen anime musics and soundtracks and
-- many more feautres that you will love while using OpenAnime!
+###### **You can [click here](https://discord.gg/wdPF4VwD4R) to join our community and be informed about the progress.**
 
-**You can [click here](https://discord.gg/wdjEkU3YFA) to join our community and be informed about the progress.**
+<!--
+Banner by @ReXulEc
+a Woks Group company.
+-->
